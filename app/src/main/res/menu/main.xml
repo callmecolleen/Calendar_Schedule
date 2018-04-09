@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Calendar_item"
+        android:title="Calendar"/>
+
+    <item
+        android:id="@+id/Todo_item"
+        android:title="Todo"/>
+</menu>
